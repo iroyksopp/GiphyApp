@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GiphyApp</string>
+    <string name="search_by">Search by</string>
+    <string name="initial_hello">Hello</string>
+</resources>
